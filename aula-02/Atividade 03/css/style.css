@@ -1,0 +1,25 @@
+body {
+    background-color: burlywood;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+#paragrafo {
+    color: aqua;
+}
